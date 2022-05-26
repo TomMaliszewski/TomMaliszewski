@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomMaliszewski
-- 👀 I’m interested in lerninig programing and use of AI for sport and health 
+- 👀 I’m interested in lerninig programing to imrove UI interactions 
 - 🌱 I’m currently learning python and networking 
 - 💞️ I’m looking to collaborate on anything I can be useful 
 - 📫 How to reach me GitHub or emails 
