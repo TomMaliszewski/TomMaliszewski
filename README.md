@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TomMaliszewski
-- 👀 I’m interested in lerninig programing to imrove UI interactions 
-- 🌱 I’m currently learning python and networking 
-- 💞️ I’m looking to collaborate on anything I can be useful 
-- 📫 How to reach me GitHub or emails 
+- 👀 I’m interested in developing my skils to meke a change...
+- 🌱 I’m currently working on CS50 and hybrid cloud architecture. 
+- 💞️ I’m looking to collaborate on intresting projects that cen help make a change.  
+- 📫 How to reach me GitHub
 
 <!---
 TomMaliszewski/TomMaliszewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
